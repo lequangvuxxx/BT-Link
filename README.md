@@ -1,7 +1,7 @@
 # Link BT
 Một tiện ích cho Chrome / Coccoc để giúp ae **Blogtruyen** fap dễ hơn ~
 # Tính năng
-* Nếu đã đăng nhập vào blogtruyen.com sẽ nhận được notify ở góc !
+* Nếu đã đăng nhập vào [blogtruyen](https://blogtruyen.com/) sẽ nhận được notify ở góc !
 * Mã hóa / Giải mã: Hex, Base64, Binary, Morse
 * Lấy nội dung của link anotepad
 * Thử mật khẩu của link anotepad
