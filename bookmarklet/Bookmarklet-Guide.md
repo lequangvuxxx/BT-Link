@@ -10,4 +10,5 @@ javascript:(function(){var r=prompt("Nhập mã Hex:","");if(null!=r&&""!=r){var
 4. Bấm vào phần edit
 5. Ở đoạn URL paste đoạn code đã copy ở trên vào
 6. Xong giờ mỗi lần bạn click vào cái bookmark ấy bạn sẽ có một công cụ giải mã Hex
+* Hướng dẫn bằng hình
 ![Hướng dẫn](../images/bookmarklet-guide.png)
