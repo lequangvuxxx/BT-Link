@@ -1,2 +1,10 @@
-#Link-BT
-Chrome Extension that make BTers easier to fap :3 
+# Link BT
+Một tiện ích cho Chrome / Coccoc để giúp ae Blogtruyen fap dễ hơn ~
+# Cách cài đặt
+1. Tải bản mới nhất tại [đây](https://github.com/lequangvuxxx/BT-Link/raw/master/release/Blogtruyen%20Link%20-%200.1.0.rar) và giải nén
+1. Vào Chrome / Coccoc tại thanh URL gõ chrome://extensions
+![Hướng dẫn 1](https://imgur.com/a/u8nCc)
+1. Tick vào chỗ Developer Mode và chọn Load unpacked extension.. và dẫn đến thư mục vừa được giải nén
+![Hướng dẫn 2](https://imgur.com/a/QQfyL)
+### Xong !
+##### Sau khi cài đặt lần sau bạn dùng Chrome / Coccoc sẽ xuất hiện thông báo yêu cầu tắt Developer Mode thì cứ bấm cancel ~
