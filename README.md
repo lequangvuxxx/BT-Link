@@ -1,5 +1,20 @@
 # Link BT
 Một tiện ích cho Chrome / Coccoc để giúp ae **Blogtruyen** fap dễ hơn ~
+# Tính năng
+* Nếu đã đăng nhập vào blogtruyen.com sẽ nhận được notify ở góc !
+* Mã hóa / Giải mã: Hex, Base64, Binary, Morse
+* Lấy nội dung của link anotepad
+* Thử mật khẩu của link anotepad
+* Tự nhận diện link và chuyển thành link click được
+* Tự nhận diện link gif, hình ảnh (có đuôi sẵn ở link mới nhận diện được như .gif .png ấy) và hiển thị
+* Bấm alt * T để mở menu.
+* Menu có thể:
+..* Đăng link lên anotepad icon (N⁺)
+..* Mã hóa - Giải mã icon (⇌)
+..* Cài đặt - icon (⚙)
+....* Tự động ẩn (Khi click vào phần ngoài của menu, menu sẽ ẩn xuống)
+....* Các mật khẩu nó dùng để dò (cách nhau bời khoảng trắng)
+....* Lưu vị trí ( Nhớ vị trí và kích thước của menu, à menu có thể di chuyển bằng thanh màu xanh ở trên và đổi kích thước bằng 2 góc dưới nhá ~ )
 # Cách cài đặt
 1. Tải bản mới nhất tại [đây](https://github.com/lequangvuxxx/BT-Link/raw/master/release/Blogtruyen%20Link%20-%200.1.0.rar) và giải nén
 2. Vào Chrome / Coccoc tại thanh URL gõ chrome://extensions
@@ -12,4 +27,5 @@ Một tiện ích cho Chrome / Coccoc để giúp ae **Blogtruyen** fap dễ hơ
 
 4. Xong !
 # Lưu ý:
-**Sau khi cài đặt lần sau bạn dùng Chrome / Coccoc sẽ xuất hiện thông báo yêu cầu tắt Developer Mode thì cứ bấm cancel ~**
+**Sau khi cài đặt lần sau bạn dùng Chrome / Coccoc sẽ xuất hiện thông báo yêu cầu tắt Developer Mode thì cứ bấm cancel**
+Nếu bạn thấy cái này quá rắc rối và bạn chỉ cần giải mã Hex thì hãy biến 1 nút trong thanh bookmark của bạn thành công cụ giải mã Hex (Xem chi tiết tại [đây](/bookmarklet/Bookmarklet-Guide.md))
