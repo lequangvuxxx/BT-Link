@@ -11,4 +11,5 @@ Một tiện ích cho Chrome / Coccoc để giúp ae **Blogtruyen** fap dễ hơ
 ![Hướng dẫn 2](https://i.imgur.com/ixmOUgH.png)
 
 4. Xong !
-### Sau khi cài đặt lần sau bạn dùng Chrome / Coccoc sẽ xuất hiện thông báo yêu cầu tắt Developer Mode thì cứ bấm cancel ~
+# Lưu ý:
+**Sau khi cài đặt lần sau bạn dùng Chrome / Coccoc sẽ xuất hiện thông báo yêu cầu tắt Developer Mode thì cứ bấm cancel ~**
