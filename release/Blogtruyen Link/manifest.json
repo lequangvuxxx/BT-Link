@@ -1,0 +1,40 @@
+{
+  "manifest_version": 2,
+  "name": "Link BT",
+  "description": "... mô tả sao giờ?",
+  "version": "0.1.0",
+  "icons": {
+      "16": "icons/16.png",
+      "48": "icons/48.png",    
+      "128": "icons/128.png"
+  },
+  "browser_action": {
+    "default_icon":"icons/128.png",
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.facebook.com/*", "http://www.facebook.com/*"],
+      "at": "document_end",
+      "js": ["scripts/jquery.js", "scripts/jquery-ui.min.js","scripts/utilities.js", "scripts/setting.js","scripts/button_event.js","scripts/content_script.js"],
+      "css": ["css/jquery-ui.min.css", "css/content.css"]
+    },
+    {
+      "matches": ["http://id.blogtruyen.com/Notify/*"],
+      "at": "document_end",
+      "js": ["scripts/modifyNotify.js"],
+      "all_frames":true
+    }
+  ],
+  "background": {
+    "persistent": true,
+    "scripts": ["scripts/jquery.js", "scripts/background.js"]
+  },
+  "permissions": [
+    "tabs",
+    "storage",
+    "contextMenus",    
+    "http://anotepad.com/*",
+    "https://anotepad.com/*"
+  ]
+}

@@ -1,0 +1,72 @@
+body {
+	margin: 0px;	
+	padding: 0px;
+	width: 120px;	
+	font-family: Arial;
+}
+input {
+	margin-top: 5px;
+}
+#ExBTSubmit {
+	position: relative;
+	float: right;
+}
+.ExBTNoSelect {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+  	user-select: none;
+}  	
+#ExBTCodeOut {
+	width: 98%;
+	height: 150px;
+	border: 2px solid #a9a9ba;
+	overflow-y: scroll;
+	text-align: left;
+}
+#ExBTCodeInp {
+	resize: none;
+	width: 98%;		
+	margin-top: 5px;
+}
+#ExBTCodeType {
+	width: 94%;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.icons {
+	margin: 0px;
+	padding: 0px;	
+	width: 100%;		
+	background-color: #4176ed;
+	text-align: center;
+}
+.icons div {
+	padding-left: 10px;
+	padding-right: 10px;
+	display: inline-grid;	
+	background-color: #4176ed;
+}
+.icons a {
+	height: 35px;
+	line-height: 35px;
+	font-size: 16px;
+	color: #fff;
+	text-decoration: none;
+	position: relative;
+}
+.icons span {
+	position: absolute;
+	top: 5px;
+	left: 13px;
+	background-color: red;
+	border-radius: 50%;
+	width: 15px;
+	line-height: 15px;
+	text-align: center;
+	font-size: 10px;	
+	color: white;
+}
+.wrapper {	
+	max-height: 325px;
+}
